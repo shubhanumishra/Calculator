@@ -1,0 +1,54 @@
+.button{
+    padding: 30px;
+    margin: 0 ;
+    border-radius: 2px solid white;
+    background-color: bisque;
+}
+.row{
+    margin: 6px 0;
+}
+.row input{
+    margin : 0;
+    padding :10px 20px ;
+    font-size: 21px;
+}
+.AC{
+background-color: red;
+}
+.OP{
+    background-color: yellowgreen;
+}
+.A{
+    background-color: blue;
+}
+.Y{
+    background-color: darkslateblue;
+}
+.text-center{
+    text-align: center;
+    background-color: rgb(79, 128, 128);
+    text-decoration: double;
+    text-decoration-color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 10px;
+    padding: 10px;
+}
+.bg-red{
+    background: black;
+    border-radius: 10px;
+}
+.mx-auto{
+    margin: auto;
+}
+.m-w-20{
+    max-width: 22vw;
+}
+.flex {
+    display: flex;
+}
+.flex-col{
+    flex-direction: column;
+}
+.items-center{
+    align-items: center;
+}
